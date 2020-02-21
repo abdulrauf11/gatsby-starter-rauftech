@@ -6,6 +6,7 @@
   "author": "Rauf Tech <hello@rauftech.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.7",
+    "formik": "^2.1.4",
     "gatsby": "^2.19.7",
     "gatsby-image": "^2.2.39",
     "gatsby-plugin-manifest": "^2.2.39",
@@ -20,7 +21,8 @@
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
     "react-spring": "^8.0.27",
-    "styled-components": "^5.0.1"
+    "styled-components": "^5.0.1",
+    "yup": "^0.28.1"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
